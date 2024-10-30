@@ -1,6 +1,6 @@
 # LiDAR data for enriching open geospatial building datasets:  implications for urban building energy modeling 
 
-<p align="center"><img src="https://github.com/xtearas/GNI-Symposium-Enriching-geospatial-building-datasets/blob/main/images/Data%20pipeline.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/xtearas/GNI-Symposium-Enriching-geospatial-building-datasets/blob/main/images/Data%20pipeline.jpg"></p>
 
 ## Introduction
 
