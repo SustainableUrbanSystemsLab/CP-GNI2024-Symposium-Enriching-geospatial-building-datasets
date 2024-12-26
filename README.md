@@ -38,7 +38,3 @@ Environment set-up:
   - python -m venv env  
   - env\Scripts\activate
   - pip install -r requirements.txt
-
-## Source
-
-[Link](https://github.com/xtearas/GNI-Symposium-Enriching-geospatial-building-datasets/tree/main) to this repository.
